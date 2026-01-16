@@ -4,7 +4,7 @@ curl -o setup-slipstream.sh https://raw.githubusercontent.com/alireza-pmahdavi/s
 chmod +x setup-slipstream.sh
 nano setup-slipstream.sh
 ```
-Change DOMAIN, TARGET_ADDRESS if needed
+Change DOMAIN
 
 ### Run it
 ```
