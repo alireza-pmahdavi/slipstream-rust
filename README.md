@@ -1,5 +1,5 @@
 # Download the script
-curl -o setup-slipstream.sh https://raw.githubusercontent.com/alireza-pmahdavi/slipstream-rust/deploy.sh
+curl -o setup-slipstream.sh https://raw.githubusercontent.com/alireza-pmahdavi/slipstream-rust/refs/heads/main/deploy.sh
 
 # Or create it manually
 nano setup-slipstream.sh
